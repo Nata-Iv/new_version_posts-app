@@ -1,0 +1,267 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Title 2: qui est esse",
+      "likes": [5],
+      "comments": [
+        {
+          "body": "hello",
+          "id": 5,
+          "userName": "natalm",
+          "time": "07.08.2025, 11:13:58"
+        }
+      ],
+      "body": "Eest rerum tempore vitaesequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla. Iuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est "
+    },
+    {
+      "id": 4,
+      "likes": [2],
+      "comments": [
+        {
+          "body": "qweqwe",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "20.08.2023, 03:23:55"
+        },
+        {
+          "body": "asdasdd",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "20.08.2023, 03:27:58"
+        }
+      ],
+      "title": "Title 4: eum et est occaecati",
+      "body": "Dullam et saepe reiciendis voluptatem adipiscisit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit Guntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est "
+    },
+    {
+      "id": 5,
+      "likes": [],
+      "comments": [],
+      "title": "Title 5: nesciunt quas odio",
+      "body": "Frepudiandae veniam quaerat sunt sedalias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque. untur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est untur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est "
+    },
+    {
+      "id": 6,
+      "likes": [],
+      "comments": [
+        {
+          "body": "aaaaaa",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "02.09.2023, 08:45:14"
+        },
+        {
+          "body": "aaa",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "02.09.2023, 08:45:21"
+        },
+        {
+          "body": "sdsd",
+          "id": 5,
+          "userName": "qqq",
+          "time": "02.09.2023, 08:48:47"
+        }
+      ],
+      "title": "Title 6: nesciunt quas odio",
+      "body": "Frepudiandae veniam quaerat sunt sedalias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque. untur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est untur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est "
+    },
+    {
+      "id": 7,
+      "likes": [],
+      "comments": [],
+      "title": "Title 7: nesciunt quas odio",
+      "body": "Frepudiandae veniam quaerat sunt sedalias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque. untur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est untur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est ",
+      "isActive": false
+    },
+    {
+      "id": 10,
+      "likes": [3],
+      "comments": [],
+      "title": "Title 10: So you hop off the bus, grab a cab—because life is short—and head straight back to the bus station looking for another platform",
+      "body": "“This time,” he said, “you are going to make 8×10 view camera color snapshots of people lying on the beach from a cherry picker crane. You spend three years at it and three grand and produce a series of works that elicit the same comment. Haven’t you seen the work of Richard Misrach? Or, if they are steamy black and white 8x10s of palm trees swaying off a beachfront, haven’t you seen the work of Sally Mann?”"
+    },
+    {
+      "id": 11,
+      "likes": [2],
+      "comments": [],
+      "title": "Title 11: The Helsinki Bus Station Theory",
+      "body": "As he looked out at the graduating students, Minkkinen shared a simple theory that, in his estimation, made all the difference between success and failure. He called it The Helsinki Bus Station Theory."
+    },
+    {
+      "id": 12,
+      "likes": [3],
+      "comments": [
+        {
+          "body": "hi all",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "07.09.2023, 03:04:45"
+        },
+        {
+          "body": "comment 2",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "07.09.2023, 03:04:54"
+        }
+      ],
+      "title": "Title 12: The Proven Path to Doing Unique and Meaningful Work",
+      "body": "In June of 2004, Arno Rafael Minkkinen stepped up to the microphone at the New England School of Photography to deliver the commencement speech.",
+      "isActive": false
+    },
+    {
+      "id": 13,
+      "likes": [2],
+      "comments": [],
+      "title": "Title 13: You can get more actionable ideas in my popular email newsletter.",
+      "body": "One way to approach creative challenges is by following the five-step process of 1) gathering material, 2) intensely working over the material in your mind, 3) stepping away from the problem, 4) allowing the idea to come back to you naturally, and 5) testing your idea in the real world and adjusting it based on feedback."
+    },
+    {
+      "id": 14,
+      "likes": [3, 2],
+      "comments": [],
+      "title": "Title 14: The Creative Process in Short",
+      "body": "The creative process is the act of making new connections between old ideas. Thus, we can say creative thinking is the task of recognizing relationships between concepts.",
+      "isActive": true
+    },
+    {
+      "title": "The Idea in Practice",
+      "body": "The creative process used by Frederic Eugene Ives offers a perfect example of these five steps in action.  First, Ives gathered new material. He spent two years working as a printer’s apprentice and then four years running the photographic laboratory at Cornell University. These experiences gave him a lot of material to draw upon and make associations between photography and printing.",
+      "id": 28,
+      "comments": [
+        {
+          "body": "Second, Ives began to mentally work over everything he learned.",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "20.08.2023, 04:02:56"
+        },
+        {
+          "body": "By 1878, Ives was spending nearly all of his time experimenting with new techniques.",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "20.08.2023, 04:04:01"
+        }
+      ],
+      "likes": [2],
+      "isActive": false
+    },
+    {
+      "title": "A Flash of Insight",
+      "body": "Ives got his start as a printer’s apprentice in Ithaca, New York. After two years of learning the ins and outs of the printing process, he began managing the photographic laboratory at nearby Cornell University. He spent the rest of the decade experimenting with new photography techniques and learning about cameras, printers, and optics.",
+      "id": 30,
+      "comments": [
+        {
+          "body": "In 1881, Ives had a flash of insight regarding a better printing technique.",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "02.09.2023, 08:38:11"
+        }
+      ],
+      "likes": [5, 1]
+    },
+    {
+      "title": "For a More Creative Brain Follow These 5 Steps",
+      "body": "Nearly all great ideas follow a similar creative process and this article explains how this process works. Understanding this is important because creative thinking is one of the most useful skills you can possess. Nearly every problem you face in work and in life can benefit from innovative solutions, lateral thinking, and creative ideas.  Anyone can learn to be creative by using these five steps. That’s not to say being creative is easy.   To explain how this process works, let me tell you a short story.",
+      "likes": [2],
+      "comments": [
+        {
+          "body": "A Problem in Need of a Creative Solution",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "21.08.2023, 07:29:08"
+        },
+        {
+          "body": "In the 1870s, newspapers and printers faced a very specific and very costly problem.",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "02.09.2023, 08:37:48"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "Self-improvement tips based on proven scientific research.",
+      "body": "This page shares my best articles to read on topics like health, happiness, creativity, productivity and more. The central question that drives my work is, “How can we live better?” To answer that question, I like to write about science-based ways to solve practical problems.  You’ll find interesting articles to read on topics like how to stop procrastinating as well as personal recommendations like my list of the best books to read and my minimalist travel guide. ",
+      "likes": [2, 5],
+      "comments": [
+        {
+          "body": "Just the highest quality ideas you’ll find on the web.",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "20.08.2023, 04:05:16"
+        },
+        {
+          "body": "Just the highest quality ideas",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "20.08.2023, 04:05:20"
+        },
+        {
+          "body": "Just the highest",
+          "id": 2,
+          "userName": "nyasha25",
+          "time": "20.08.2023, 04:08:28"
+        }
+      ],
+      "id": 33,
+      "isActive": false
+    },
+    {
+      "title": "“Stay on the Bus”",
+      "body": "Minkkinen paused. He looked out at the students and asked, “What to do?”  “It’s simple,” he said. “Stay on the bus. Stay on the f*cking bus. Because if you do, in time, you will begin to see a difference.”",
+      "likes": [],
+      "comments": [],
+      "id": 34
+    },
+    {
+      "title": "Does Consistency Lead to Success?",
+      "body": "I write frequently about how mastery requires consistency. That includes ideas like putting in your reps, improving your average speed, and falling in love with boredom. These ideas are critical, but The Helsinki Bus Station Theory helps to clarify and distinguish some important details that often get overlooked.",
+      "likes": [],
+      "comments": [],
+      "id": 35
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "password": "!1Masha",
+      "email": "masha515@gmail.com",
+      "userName": "asha435",
+      "name": "Malina",
+      "country": "Ukraine"
+    },
+    {
+      "email": "natalya.ivanova.smm@gmail.com",
+      "password": "123!Aa",
+      "id": 2,
+      "userName": "nyasha25",
+      "name": "Malina",
+      "country": "Ukraine"
+    },
+    {
+      "email": "nataly-joker@gmail.com",
+      "password": "54321Aa!",
+      "id": 3,
+      "userName": "nataly615",
+      "name": "Malina",
+      "country": "Ukraine"
+    },
+    {
+      "email": "nata@hello",
+      "password": "11223!Qa3",
+      "userName": "nata",
+      "id": 4,
+      "name": "Malina",
+      "country": "Ukraine"
+    },
+    {
+      "email": "natalm@gmail.com",
+      "password": "Natka123!",
+      "userName": "natalm",
+      "name": "Olha ",
+      "country": "Германия",
+      "id": 5
+    }
+  ]
+}
